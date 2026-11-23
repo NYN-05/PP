@@ -59,4 +59,4 @@ int main()
     printf("Parallel: %f seconds\n", e - s);
     return 0;
 }
-git init; git add .;git commit -m "first commit"; git branch -M main ;git remote add origin https://github.com/NYN-05/PP.git ;git push -u origin main
+//git init; git add .;git commit -m "first commit"; git branch -M main ;git remote add origin https://github.com/NYN-05/PP.git ;git push -u origin main
