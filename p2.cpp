@@ -23,6 +23,32 @@ int main() {
 /*P2 Write an OpenMP program that divides the Iterations 
 into chunks containing 2 iterations, respectively 
 (OMP_SCHEDULE=static,2). Its input should be the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 number of iterations, and its output should be 
 which iterations of a parallelized for loop are 
 executed by which thread. For example, if there 

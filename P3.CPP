@@ -21,6 +21,7 @@ int main() {
 
 #pragma omp parallel
 #pragma omp single
+
     for (int i = 0; i < n; i++) printf("%d ", fib(i));
 
     return 0;
